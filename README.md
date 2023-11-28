@@ -1,6 +1,6 @@
 # Compressor-de-Audio
 
-• Implementação básica – compressor de áudio
+• Implementação básica – compressor de áudio <br>
 • Bônus – escalonador de tempo e com correção de tons
 
 Sistema para dizimar ou interpolar o sinal de áudio em diferentes taxas M e L, à escolha do usuário, visando aplicações em compressão de dados (redução de
